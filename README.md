@@ -1,4 +1,20 @@
-JsDesignPatterns
-================
+# Javascript Design Patterns
 
-This repo contains some of the popular javascript design patterns. Will also include a tests for each pattern written using Jasmine. 
+## Patterns Included
+
+* Constructor Pattern
+* Singleton Pattern
+* Module Pattern
+* Factory Pattern
+* Decorator Pattern
+* Facade Pattern
+
+
+## Tests
+BDD Style using [Jasmine](http://pivotal.github.io/jasmine/)
+
+## Resources
+* [Essential Js Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Jasmine](http://pivotal.github.io/jasmine/)
+* [Jasmine Tutorial](http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229)
+
