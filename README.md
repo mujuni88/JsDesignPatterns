@@ -4,10 +4,12 @@
 
 * Constructor Pattern
 * Singleton Pattern
+* AMD(Asynchronous Module Definition) Format
 * Module Pattern
 * Factory Pattern
 * Decorator Pattern
 * Facade Pattern
+
 
 
 ## Tests
