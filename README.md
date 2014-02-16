@@ -15,6 +15,9 @@
 ## Tests
 BDD Style using [Jasmine](http://pivotal.github.io/jasmine/)
 
+## IDE
+Webstorm 
+
 ## Resources
 * [Essential Js Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Jasmine](http://pivotal.github.io/jasmine/)
