@@ -1,14 +1,17 @@
 /**
  * Created by joebm08 on 2/6/14.
  */
-define(function () {
+
+var jb = jb || {};
+
+jb.st = (function () {
     'use strict';
 
     var instance;
 
     function init() {
         return {
-            message: function () {
+            msg: function () {
                 return "hello";
             },
             title: function () {
@@ -29,4 +32,4 @@ define(function () {
         getInstance: getInstance
     };
 
-});
+})();
