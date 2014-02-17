@@ -9,6 +9,7 @@
 * Factory Pattern
 * Decorator Pattern
 * Facade Pattern
+* Command Pattern
 
 
 
